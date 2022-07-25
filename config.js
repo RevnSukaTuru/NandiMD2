@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283897021821','628113048247','6288292024190']
-global.premium = ['6283897021821']
-global.packname = 'Nandi Bot-MD'
-global.author = 'Whatsap Bot'
-global.sessionName = 'hisoka'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.owner = ['6285760165634','6282235537809']
+global.premium = ['6285760165634']
+global.packname = 'V Botz-MD'
+global.author = 'Vanzz AKA Revan'
+global.sessionName = 'session'
+global.prefa = ['.'#'!'+'?','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
